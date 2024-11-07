@@ -50,14 +50,14 @@ body {
 }
 
 .header__link {
-    color: hwb(33 88% 4% / 0.73);
+    color: #fefa08;
     text-decoration: none;
     padding: 0.7rem;
 }
 
 .header__link:hover {
-    background-color: black;
-    color: rgb(229, 162, 18);
+    background-color: rgb(0, 0, 0);
+    color: #e5d012;
     border-radius: 20px;
 }
 
